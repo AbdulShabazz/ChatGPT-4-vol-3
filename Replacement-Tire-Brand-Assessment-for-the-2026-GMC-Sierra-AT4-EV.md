@@ -1,6 +1,6 @@
 # Replacement Tire Brand Assessment for the 2026 GMC Sierra AT4 EV
 
-## Executive summary
+## Deep Research - Executive summary
 
 For the priorities you specified, the strongest overall brand fits are **Falken**, **Toyo**, and **BFGoodrich**. Falken’s WILDPEAK A/T4W stands out because it combines confirmed **129/126S** sizes above the 34.5-inch threshold, **3PMSF**, a **60,000-mile LT warranty**, very deep **18/32-inch** tread, and strong owner feedback at Tire Rack. Toyo’s Open Country A/T III is the most balanced “safe choice,” with extensive owner history, strong winter and tread-life positioning, confirmed **129/126S** large sizes, and a **50,000-mile LT warranty**. BFGoodrich’s All-Terrain T/A KO3 remains a benchmark for owner satisfaction, winter traction, and rugged looks, but it gives up some tread depth versus Falken and Yokohama. citeturn25search0turn25search8turn45search3turn42view0turn26search18turn44search0turn45search2turn29search1turn27search2
 
